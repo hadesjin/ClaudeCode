@@ -64,7 +64,7 @@
 git clone https://github.com/hadesjin/ClaudeCode.git
 
 # 进入目录
-cd ClaudeCode
+cd ClaudeCode/minesweeper
 
 # 在浏览器中打开
 open minesweeper.html  # macOS
